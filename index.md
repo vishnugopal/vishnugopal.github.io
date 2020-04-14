@@ -10,7 +10,7 @@ This is a list of side-projects that I've worked on. All of them are MIT license
 
 Next, Storybook, Tailwind, and a bunch of other JS rockstars, all in one project.
 
-[Go to Project Site](/replr)
+[Go to Project Site](/js-rockstars)
 
 ### Replr
 
