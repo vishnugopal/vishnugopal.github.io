@@ -6,6 +6,12 @@ layout: default
 
 This is a list of side-projects that I've worked on. All of them are MIT licensed. Do what you will!
 
+### JS Rockstars
+
+Next, Storybook, Tailwind, and a bunch of other JS rockstars, all in one project.
+
+[Go to Project Site](/replr)
+
 ### Replr
 
 A single line REPL for your favorite languages & libraries. Built on Docker.
