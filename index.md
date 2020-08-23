@@ -6,6 +6,12 @@ layout: default
 
 This is a list of side-projects that I've worked on. All of them are MIT licensed. Do what you will!
 
+### Blessed by Vishnu
+
+A set of tools, software, and good things that I use and love.
+
+[Go to Project Site](/blessed)
+
 ### JS Rockstars
 
 Next, Storybook, Tailwind, and a bunch of other JS rockstars, all in one project.
